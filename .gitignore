@@ -1,0 +1,6 @@
+venv/
+pycache/
+*.pyc
+*.joblib
+data_latih_icd10.csv
+.env

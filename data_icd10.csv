@@ -1,0 +1,31 @@
+Kode_ICD10,Penyakit,Nama_Umum,Gejala_Lengkap,Rekomendasi_Awal,Obat_Umum
+J11,Influenza with other respiratory manifestations,Flu / Influenza,"Demam, Batuk kering, Sakit tenggorokan, Hidung tersumbat, Bersin, Lemas, Nyeri otot, Menggigil, Sakit kepala ringan, Nafsu makan menurun","Istirahat total, hidrasi cukup","Paracetamol, Dekongestan"
+J20.9,Acute bronchitis unspecified,Batuk Berdahak / ISPA,"Batuk berdahak, Hidung meler, Sakit tenggorokan, Napas berbunyi, Dada terasa berat, Tenggorokan gatal, Lemas","Minum air hangat, hindari polusi","Mukolitik (Ambroxol), Ekspektoran"
+J45,Asthma,Asma Ringan,"Sesak napas, Dada terasa tertekan, Napas berbunyi, Batuk malam hari, Mudah lelah","Jauhi pemicu, duduk tegak","Inhaler Salbutamol (Resep), Bronkodilator"
+J30,Vasomotor and allergic rhinitis,Alergi Debu / Rhinitis,"Bersin, Hidung tersumbat, Hidung meler, Gatal tenggorokan, Mata berair, Lemas, Kelelahan ringan","Hindari alergen, bersihkan debu",Antihistamin (Cetirizine)
+K29.7,Gastritis unspecified,Maag / Gastritis,"Nyeri ulu hati, Mual, Perut terasa penuh, Heartburn, Kembung, Nafsu makan turun",Makan porsi kecil tapi sering,"Antasida, Sukralfat"
+A09,Infectious gastroenteritis and colitis,Diare / Mencret,"Diare, Nyeri perut, Perut mulas, Lemas, Dehidrasi ringan",Rehidrasi oral (Oralit),"Attapulgite, Loperamide (jika perlu)"
+K59.0,Constipation,Sembelit / Konstipasi,"Sulit buang air besar, Perut penuh, Kembung, Lemas, Nafsu makan turun",Perbanyak serat dan air putih,Laxative (Dulcolax)
+T62,Toxic effect of other noxious substances eaten as food,Keracunan Makanan Ringan,"Mual, Muntah, Nyeri perut, Diare, Pusing ringan","Minum air kelapa/oralit, istirahat",Absorben (Arang aktif/Norit)
+K21.9,Gastro-oesophageal reflux disease without oesophagitis,GERD / Asam Lambung,"Nyeri dada, Rasa terbakar di dada, Mual, Nafas terasa berat, Perut penuh",Jangan langsung tidur setelah makan,"PPI (Omeprazole), Antasida"
+M79.1,Myalgia,Pegal Linu / Kelelahan Otot,"Nyeri otot, Nyeri punggung, Kaku sendi, Lemas, Keringat dingin, Pegal di bahu","Peregangan, kompres hangat",Analgesik topikal (Counterpain)
+M10,Gout,Asam Urat,"Nyeri sendi, Pembengkakan di sendi, Nyeri kaki malam hari, Kaku sendi","Hindari jeroan/kacang, kompres es","Allopurinol, NSAID"
+M62,Other disorders of muscle,Cedera Otot Ringan,"Nyeri lokal di otot, Kram otot, Pegal, Bengkak","Metode RICE (Rest, Ice, Compression, Elevation)",NSAID (Ibuprofen)
+L23,Allergic contact dermatitis,Alergi Kulit / Dermatitis,"Ruam kulit, Gatal, Kulit kemerahan, Panas di kulit, Bengkak ringan","Hindari pemicu, jangan digaruk","Kortikosteroid topikal, Bedak gatal"
+L08,Other local infections of skin and subcutaneous tissue,Infeksi Kulit Ringan,"Luka tidak sembuh, Luka bernanah, Pembengkakan, Nyeri lokal",Bersihkan dengan antiseptik,Salep Antibiotik (Gentamicin)
+L20,Atopic dermatitis,Eksim / Kulit Kering,"Kulit kering, Bersisik, Gatal, Retak di kulit, Nyeri ringan",Gunakan pelembab (moisturizer) rutin,Salep Hidrokortison
+G43,Migraine,Migrain,"Sakit kepala hebat satu sisi, Pusing, Sensitif cahaya, Mual ringan, Sulit fokus",Istirahat di ruang gelap,"Paracetamol, Kafein, Ergotamin"
+H81.1,Benign paroxysmal vertigo,Vertigo,"Pusing berputar, Pandangan kabur, Kehilangan keseimbangan, Telinga berdengung","Manuver Epley, duduk diam",Betahistine
+J01,Acute sinusitis,Sinusitis,"Sakit kepala bagian depan, Hidung tersumbat, Nyeri wajah, Batuk pagi hari","Irigasi hidung, kompres hangat","Dekongestan, Mukolitik"
+I95,Hypotension,Darah Rendah / Hipotensi,"Pusing, Lemas, Keringat dingin, Pandangan kabur, Jantung berdebar","Minum air, konsumsi garam cukup",Suplemen penambah darah
+I10,Essential (primary) hypertension,Darah Tinggi / Hipertensi,"Sakit kepala belakang, Jantung berdebar, Kelelahan, Pusing","Kurangi garam, kelola stres",Captopril/Amlodipine (Wajib Resep)
+R00.2,Palpitations,Jantung Berdebar (Psikosomatis),"Detak jantung cepat, Cemas, Sesak, Sulit tidur",Teknik relaksasi napas dalam,Vitamin B Kompleks
+N39.0,Urinary tract infection site not specified,Infeksi Saluran Kemih (ISK),"Nyeri saat buang air kecil, Sering BAK, Urine keruh, Nyeri perut bawah","Banyak minum air putih, jangan tahan BAK","Antibiotik (Resep), Urinary analgesic"
+N94.6,Dysmenorrhoea unspecified,Nyeri Haid,"Nyeri perut bawah, Nyeri pinggang, Lemas, Nafsu makan turun",Kompres hangat perut bawah,"Feminax, Ibuprofen"
+E86,Volume depletion,Dehidrasi,"Urine pekat, Sakit kepala ringan, Lemas, Haus berlebihan",Minum air berelektrolit,Oralit
+J06.9,Acute upper respiratory infection unspecified,ISPA / Masuk Angin,"Demam, Batuk kering, Kehilangan penciuman, Lemas, Sakit tenggorokan","Istirahat, vitamin C, air hangat","Paracetamol, Multivitamin"
+A01.0,Typhoid fever,Tifus Ringan,"Demam tinggi >3 hari, Lemas, Nyeri perut, Sakit kepala, Nafsu makan turun","Diet lunak, bedrest total",Antibiotik (Harus ke Dokter)
+A91,Dengue haemorrhagic fever,Demam Berdarah (Gejala Awal),"Demam, Nyeri sendi, Nyeri otot, Lemas, Muncul bintik merah","Pantau cairan, segera ke RS jika memburuk","Paracetamol, Cairan Isotonik"
+G47.0,Insomnia,Susah Tidur / Insomnia,"Sulit tidur, Cemas, Kelelahan, Kantuk di siang hari","Sleep hygiene, hindari gadget malam hari","Melatonin, Teh Chamomile"
+F41.1,Generalized anxiety disorder,Kecemasan / Anxiety,"Jantung berdebar, Sulit fokus, Tidak bisa tidur, Nafsu makan menurun","Meditasi, konseling",Sedatif ringan (Resep)
+Z73.3,Stress not elsewhere classified,Stres Fisik & Mental,"Lelah berlebih, Sulit tidur, Mudah marah, Nyeri kepala ringan","Istirahat, liburan/refreshing","Vitamin B, Magnesium"
